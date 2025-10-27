@@ -1,0 +1,6 @@
+*.nii.gz
+*.src.gz
+*.fib.gz
+data/raw/
+.DS_Store
+Thumbs.db
