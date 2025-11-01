@@ -4,3 +4,9 @@
 data/raw/
 .DS_Store
 Thumbs.db
+results/
+ds000221-download/
+data/
+.serena/
+analysis/__pycache__/
+dataset_description.json
